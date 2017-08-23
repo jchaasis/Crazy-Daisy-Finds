@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(221, 179, 255);
+}
+
+.nav-bar {
+  background-color: rgb(219, 208, 160);
+  display: flex;
+  text-align: center;
+  justify-content:space-around;
+  margin: 0px;
+  padding: 10px;
+}
+
+.nav-link {
+  text-decoration:none;
+}
+
+.rotating-pictures{
+  background-image: url("/Users/christianhaasis/Documents/Projects/CrazyDaisy/images/booth.JPG");
+  background-size: cover;
+  width: 90%;
+  height: 500px;
+}
